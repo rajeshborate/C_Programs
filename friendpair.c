@@ -21,7 +21,7 @@ SAMPLE INPUT:
 28
 SAMPLE OUTPUT:
 
-Friendly Pair 
+
 
 */
 
