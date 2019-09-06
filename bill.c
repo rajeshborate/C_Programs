@@ -5,7 +5,7 @@ Electricity board has decided to charge rupees based on the units consumed by a 
 
 INPUT & OUTPUT FORMAT: 
 
-Input consists of one integer. This corresponds to the units consumed.
+Input consists of one integer. 
 The output consists of one integer. This corresponds to the electricity bill in rupees.
 
 
